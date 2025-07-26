@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Naga Aruna Sreshta Appadwedula</h1>
+<h3 align="center">Passionate about turning data into actionable insights and intelligent solutions.  
+🎯 MS in Business Analytics @ UTA | Ex-ZS Associates  
+📊 Skilled in SQL, Python, R, Tableau, and Machine Learning, Statistical Analysis 
+💡 Always exploring data, building ML models, and solving business problems </h3>
+📫 Reach me at : sreshta2797@gmail.com
 
-<!--
-**arunasreshta/arunasreshta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sreshta-a-916783167/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+</p>
