@@ -1,6 +1,6 @@
 <h1 align="center">Hello !</h1>
-<h3 align="justified"> With a strong foundation in Data Science, Business Statistics and AI, I’m passionate about harnessing data to drive meaningful insights and innovations. 
-My academic journey, with Master of Science in Business Analytics and hands-on experience as a Business Analyst at ZS Associates, has equipped me with the skills to solve complex problems. I thrive in cross-functional environments, where data-driven decision-making leads to impactful outcomes. I’m drawn to machine learning and AI research, areas where I aspire to make substantial contributions. 
-I am continuously learning to stay ahead in AI/ML technologies and aiming to contribute to cutting-edge research that shapes the future of industries.
+<h3 align="justified"> With a strong foundation in data science, business analytics, and AI, I excel at transforming complex data into actionable insights that drive innovation and value. My academic background, Master of Science in Business Analytics, and hands-on experience as at ZS Associates empower me to solve tough business challenges using advanced machine learning, NLP, LLMs, and cloud engineering tools.
 
-Currently on the lookout for exciting opportunities in data science, AI research, or machine learning engineering where I can apply my skills and passion to make a difference. </h3>
+Passionate about harnessing GenAI and ML to shape the future, I thrive in cross-functional teams where data-driven solutions propel real business impact. I’m committed to continual learning in AI/ML, with a keen focus on research and development in generative AI, retrieval-augmented generation (RAG), and large language models.
+
+I’m actively seeking opportunities in data science, machine learning engineering, or AI research, with the goal of contributing my technical skills and drive for innovation to projects that make a difference in business and technology. </h3>
